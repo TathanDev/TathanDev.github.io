@@ -1,0 +1,184 @@
+*{
+    font-family: Calibri, Arial, sans-serif;
+    margin: 0;
+    color: white;
+
+}
+
+body {
+    background-color: #121212;
+
+}
+
+#desc {
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+header {
+    margin: 0 auto;
+    background-color: black;
+    height: 100px;
+    margin-top: -30px;
+    
+}
+
+header h1 {
+    text-align: center;
+    font-size: 3vmax;
+    margin-top: 30px;    
+}
+
+
+
+header #menu .nav { 
+    
+    list-style-type: none;
+    margin: 0;
+    margin-top: -65px;
+    padding: 0;
+}
+
+header #menu .nav li {
+    display: inline-block;
+    font-size: 20px;
+    font-size: 2vmax;
+    padding: 20px;
+  }
+  
+
+
+
+#desc h1 {
+    text-align: center;
+    font-size: 5vmax;
+    margin-top: 10px;
+    height: min-content;
+    
+}
+
+#desc p {
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+button
+{
+    background-color: #dae4ff;
+    border-radius: 10px;
+    padding: 2%;
+    box-shadow: 3px 3px 3px #8296ca;
+    width: max-content;
+    margin: 2%;
+    min-width: 50px;
+    min-height: 50px;
+}
+
+#skills {
+
+    background-color: #262626;
+    border-radius: 7px;
+    padding: 2%;
+    box-shadow: 1px 1px 1px #393939;
+    width: max-content;
+    margin: 0 auto;
+    margin-top: 30px;
+    min-width: 200px;
+    /*align-self: center;*/
+    height: min-content;
+    
+
+}
+
+h1
+{
+
+    text-align: center;
+    font-size: 5vmax;
+    margin-top: 10px;
+    height: min-content;
+
+
+}
+
+
+
+#projects p {
+
+    text-align: center;
+    font-size: 20px;
+    margin-top: 1px;
+    height: min-content;
+    margin-bottom: 10px;
+   
+}
+
+#projects h2 {
+
+    text-align: center;
+    font-size: 2vmax;
+    height: min-content;
+   
+}
+
+#projects img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 2%;
+}
+
+
+#projects #odysseyus {
+
+    background-color: #262626;
+    border-radius: 7px;
+    padding: 2%;
+    box-shadow: 1px 1px 1px #393939;
+    width: max-content;
+    margin: 0 auto;
+    margin-top: 20px;
+    min-width: 200px;
+    /*align-self: center;*/
+    height: min-content;
+    
+    
+    
+    
+}
+
+
+#projects #falloutcraft {
+
+    background-color: #262626;
+    border-radius: 7px;
+    padding: 2%;
+    box-shadow: 1px 1px 1px #393939;
+    width: max-content;
+    margin: 0 auto;
+    min-width: 200px;
+    /*align-self: center;*/
+    height: min-content;
+    margin-top: 20px;
+
+
+}
+
+footer {
+
+    background-color: black;
+}
+
+footer h1 {
+
+    font-size: 2vmax;
+    text-align: left;
+    margin-left: 20px;
+}
+
+
+
