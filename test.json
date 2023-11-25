@@ -1,0 +1,9 @@
+{
+    "url": "https://odysseyus.fr/odysseyus-launcher-1.0.3.jar",
+    "app_version": "1.0.4",
+    "java": {
+      "download": true,
+      "version": "17",
+      "withJavaFx": true
+    }
+  }
